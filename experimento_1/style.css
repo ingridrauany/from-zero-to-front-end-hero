@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
+
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url(http://cameronbaney.com/codepen/twitter-widget/bg.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Open Sans", Helvetica Nue, Arial, sans-serif;
+}
+
+.twitter-widget {
+  display: flex;
+  flex-direction: column;
+  width: 446px;
+  background-color: #fff;
+  box-shadow: 1px 1px 16px rgba(0,0,0,.58);
+  border-radius: 2px;
+}
+
+header {
+  background: url(http://cameronbaney.com/codepen/twitter-widget/bg-header.jpg) no-repeat;
+  color: #fff;
+  display: flex;
+  aling-items: center;
+  border-radius: 2px 2px 0 0;
+}
+
+header .picture {
+  padding: 15px;
+  display: flex;
+}
+
+header .picture img {
+  border: 4px solid #00CD66;
+  border-radius: 3px;
+}
+
+header .profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+header .profile .user {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0px 5px;
+}
+
+header .profile .description {
+  font-size: 13px;
+  font-weigh: 400;
+  margin: 5px 8px;
+}
+
+section.stats {
+  display: flex;
+  background: rgb(243,243,243);
+}
+
+section.stats div {
+  flex: 1;
+  border-bottom: 1px solid #d4d4d4;
+  padding: 10px;
+}
+
+section.stats div a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: #696969;
+}
+
+section.stats div a:hover {
+  color: #9C9C9C;
+}
+
+section.stats strong {
+  font-size: 20px;
+}
+
+nav.menu {
+  display: flex;
+  background: rgb(243,243,243);
+  border-radius: 0 0 2px 2px;
+}
+
+nav.menu a {
+  flex: 1;
+  color: #696969;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+nav.menu a:hover {
+  color: #9C9C9C;
+}
