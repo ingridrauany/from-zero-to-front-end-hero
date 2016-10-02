@@ -10,9 +10,9 @@ Repositório com os arquivos dos meus experimentos estudando tecnologias front-e
 
 #### Twitter Widget
 - [Projeto Original](http://codepen.io/cameronbaney/pen/gfjLJ)
-- Replicação: [CopePen](http://codepen.io/ingridrauany/pen/QExwmZ?editors=1100#0) - [Código](https://github.com/ingridrauany/from-zero-to-front-end-hero/tree/master/experimento_1)
+- Replicação: [CopePen](http://codepen.io/ingridrauany/pen/QExwmZ?editors=1100#0) - [Código](https://github.com/ingridrauany/from-zero-to-front-end-hero/tree/master/experimento_1/twitter%20widget)
 
 #### Confirm Reservation
 - [Projeto Original](https://dribbble.com/shots/2639709-Confirm-Reservation/attachments/528798)
-- Replicação: [CopePen](http://codepen.io/ingridrauany/pen/akjywv?editors=1100#0) - [Código]()
+- Replicação: [CopePen](http://codepen.io/ingridrauany/pen/akjywv?editors=1100#0) - [Código](https://github.com/ingridrauany/from-zero-to-front-end-hero/tree/master/experimento_1/confirm_reservation)
 
